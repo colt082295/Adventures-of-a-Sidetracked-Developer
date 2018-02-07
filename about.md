@@ -8,4 +8,4 @@ Hi, my name is Colton Travers. I'm a web developer that dabbles in sort of every
 
 ### Contact me
 
-[email@domain.com](mailto:contactcolt@gmail.com)
+[Email Me](mailto:contactcolt@gmail.com)
